@@ -1,0 +1,306 @@
+ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING  
+CONTINUOUS ASSESSMENT – 1  
+SUBJECT: PYTHON PROGRAMMING BASICS
+
+--------------------------------------------------
+
+1. What is the main purpose of Python REPL?
+A) Design interfaces  
+B) Compile programs  
+C) Execute code line-by-line  
+D) Manage files  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+2. Which tool helps programmers write and manage Python programs efficiently?
+A) Web Browser  
+B) File Explorer  
+C) Command Prompt only  
+D) Python IDE  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+3. How does operator precedence affect expressions?
+A) Controls evaluation order  
+B) Reduces memory usage  
+C) Formats output  
+D) Ignores operators  
+
+Correct Answer: A
+
+--------------------------------------------------
+
+4. Why should beginners prefer an IDE over only using REPL?
+A) IDE replaces Python  
+B) IDE provides development tools  
+C) IDE increases execution speed  
+D) IDE removes all errors  
+
+Correct Answer: B
+
+--------------------------------------------------
+
+5. Why does Python input handling help real-world problems?
+A) Enables user interaction  
+B) Controls syntax  
+C) Avoids loops  
+D) Reduces output  
+
+Correct Answer: A
+
+--------------------------------------------------
+
+6. What is the main purpose of bitwise operators in Python?
+A) Control loops  
+B) Compare values  
+C) Perform arithmetic  
+D) Manipulate binary data  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+7. Why is indentation mandatory in Python programs?
+A) Formats comments  
+B) Defines code blocks  
+C) Improves execution speed  
+D) Controls memory  
+
+Correct Answer: B
+
+--------------------------------------------------
+
+8. Which operator checks whether two variables refer to the same object?
+A) ==  
+B) !=  
+C) is  
+D) equals  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+9. How does proper selection improve code quality?
+A) Reduces memory  
+B) Shortens syntax  
+C) Removes errors  
+D) Improves clarity  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+10. How does bitwise AND operate on bits?
+A) Compare bits  
+B) Toggle bits  
+C) Shift bits  
+D) Set bit to 1 if both bits are 1  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+11. Which operator category is used to compare two values?
+A) Logical  
+B) Arithmetical  
+C) Comparison  
+D) Assignment  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+12. What is the role of logical operators in decision blocks?
+A) Assign values  
+B) Store results  
+C) Combine conditions  
+D) Format code  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+13. How does Python improve readability using indentation?
+A) Adding random spaces  
+B) Removing comments  
+C) Reducing code length  
+D) Grouping statements logically  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+14. Why should assignment operators be used carefully?
+A) They need loops  
+B) They remove data  
+C) They change variable values  
+D) They slow execution  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+15. How does an indentation error affect Python execution?
+A) Slows execution  
+B) Causes syntax error  
+C) Is ignored silently  
+D) Changes output only  
+
+Correct Answer: B
+
+--------------------------------------------------
+
+16. How does Python define blocks of code?
+A) Using keywords  
+B) Using brackets  
+C) Using line numbers  
+D) Using indentation  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+17. How does proper documentation help Python programmers?
+A) Changes execution flow  
+B) Improves readability  
+C) Reduces indentation  
+D) Manages memory  
+
+Correct Answer: B
+
+--------------------------------------------------
+
+18. What happens if Python keywords are used as variable names?
+A) Program runs normally  
+B) Program slows down  
+C) Variable is ignored  
+D) Syntax error occurs  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+19. How do membership operators improve code clarity?
+A) Speed execution  
+B) Remove indentation  
+C) Reduce variables  
+D) Express containment directly  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+20. Why should meaningful variable names be used?
+A) Reduce memory  
+B) Avoid errors  
+C) Improve code clarity  
+D) Reduce execution time  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+21. How does Python accept input from the user?
+A) Through return  
+B) Through print  
+C) Through input function  
+D) Through output  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+22. Which token category represents identifiers in Python?
+A) Delimiters  
+B) Literals  
+C) Variables  
+D) Operators  
+
+Correct Answer: C
+
+--------------------------------------------------
+
+23. How do operators help simplify Python expressions?
+A) Reduce readability  
+B) Remove variables  
+C) Avoid conditions  
+D) Combine actions  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+24. How do bitwise shift operators work?
+A) Compare values  
+B) Remove bits  
+C) Add numbers  
+D) Move bits left or right  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+25. How should a programmer choose a data type for a task?
+A) Based on indentation  
+B) Randomly  
+C) Based on IDE  
+D) Based on data usage  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+26. What is the purpose of combining operators in expressions?
+A) Reduce readability  
+B) Increase memory  
+C) Avoid loops  
+D) Simplify complex logic  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+27. What does the identity operator return in Python?
+A) Memory address  
+B) String output  
+C) Numeric value  
+D) Boolean result  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+28. Why is operator precedence important in expressions?
+A) Formats output  
+B) Increases speed  
+C) Stores value  
+D) Controls execution order  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+29. How do comparison operators influence program flow?
+A) Printing output  
+B) Looping code  
+C) Storing values  
+D) Enabling decisions  
+
+Correct Answer: D
+
+--------------------------------------------------
+
+30. How should multiple operators be arranged for correct results?
+A) Randomly  
+B) Based on input  
+C) Based on differentiation  
+D) Based on logic and precedence  
+
+Correct Answer: D
+
+--------------------------------------------------
+END OF FILE

@@ -1,0 +1,308 @@
+Artificial Intelligence and Machine Learning  
+Continuous Assessment – 1  
+
+==================================================
+QUESTION PAPER WITH OPTIONS AND ANSWERS
+==================================================
+
+Q1. Which environment type forces complex agent reasoning?  
+a. Closed loop  
+b. Deterministic grid  
+c. Static environment  
+d. Dynamic and stochastic environment  
+
+Answer: d. Dynamic and stochastic environment
+
+--------------------------------------------------
+
+Q2. What step would you take to analyze Turing Test limitations?  
+a. Measure CPU time  
+b. Check typing speed  
+c. Compare conversation ability vs reasoning depth  
+d. Count responses  
+
+Answer: c. Compare conversation ability vs reasoning depth
+
+--------------------------------------------------
+
+Q3. Which AI search strategy applies cost and heuristic equally?  
+a. DFS  
+b. BFS  
+c. Greedy search  
+d. A* search  
+
+Answer: d. A* search
+
+--------------------------------------------------
+
+Q4. How can you apply the A* algorithm to a route-finding problem?  
+a. By ignoring visited paths  
+b. By exploring nodes sequentially  
+c. By combining actual and estimated path costs  
+d. By random jumps  
+
+Answer: c. By combining actual and estimated path costs
+
+--------------------------------------------------
+
+Q5. Why does defining a clear performance measure improve AI systems?  
+a. It simplifies syntax  
+b. It improves graphics  
+c. It reduces RAM  
+d. It objectively evaluates goal achievement  
+
+Answer: d. It objectively evaluates goal achievement
+
+--------------------------------------------------
+
+Q6. Why is backward chaining ineffective in dynamic environments?  
+a. It uses random selection  
+b. Goals and facts change during inference  
+c. It needs huge memory  
+d. It ignores rules  
+
+Answer: b. Goals and facts change during inference
+
+--------------------------------------------------
+
+Q7. Why should designers evaluate ethical implications of AI decisions?  
+a. To save space  
+b. To reduce loops  
+c. To ensure fairness and accountability in intelligent behavior  
+d. To increase file speed  
+
+Answer: c. To ensure fairness and accountability in intelligent behavior
+
+--------------------------------------------------
+
+Q8. Which component links facts and relationships in semantic networks?  
+a. Nodes and Arcs  
+b. Scripts  
+c. Tables  
+d. Tokens  
+
+Answer: a. Nodes and Arcs
+
+--------------------------------------------------
+
+Q9. What differentiates first-order logic from propositional logic?  
+a. Faster execution  
+b. Lack of inference  
+c. Limited operators  
+d. Ability to use quantifiers and variables  
+
+Answer: d. Ability to use quantifiers and variables
+
+--------------------------------------------------
+
+Q10. Why is unification important in predicate logic reasoning?  
+a. It allows matching of variables in logical expressions  
+b. It eliminates redundancy  
+c. It stores results  
+d. It measures accuracy  
+
+Answer: a. It allows matching of variables in logical expressions
+
+--------------------------------------------------
+
+Q11. How does Bayesian inference aid agent decision making under uncertainty?  
+a. By updating beliefs based on new evidence  
+b. By saving time  
+c. By ignoring past data  
+d. By increasing loops  
+
+Answer: a. By updating beliefs based on new evidence
+
+--------------------------------------------------
+
+Q12. How can you apply the resolution principle to prove a statement?  
+a. Use truth tables only  
+b. Convert sentences to CNF and resolve complements  
+c. Match syntax  
+d. Check random pairs  
+
+Answer: b. Convert sentences to CNF and resolve complements
+
+--------------------------------------------------
+
+Q13. Why is resolution considered a complete inference rule for FOL?  
+a. It uses graphs  
+b. It runs fast  
+c. It can derive any logical conclusion from consistent premises  
+d. It needs heuristics  
+
+Answer: c. It can derive any logical conclusion from consistent premises
+
+--------------------------------------------------
+
+Q14. How can you evaluate rule-base coverage in expert systems?  
+a. By testing all possible input scenarios for gaps  
+b. By timing code  
+c. By counting loops  
+d. By checking colors  
+
+Answer: a. By testing all possible input scenarios for gaps
+
+--------------------------------------------------
+
+Q15. How does a rational agent choose an action?  
+a. By maximizing expected performance measure  
+b. By repeating the last action  
+c. By trial only  
+d. By random selection  
+
+Answer: a. By maximizing expected performance measure
+
+--------------------------------------------------
+
+Q16. Which analysis ensures knowledge representation supports inference effectively?  
+a. File size check  
+b. Reasoning trace analysis on test queries  
+c. Syntax review  
+d. Color scheme  
+
+Answer: b. Reasoning trace analysis on test queries
+
+--------------------------------------------------
+
+Q17. Which property makes first-order logic powerful for AI reasoning?  
+a. Color coding  
+b. Speed of execution  
+c. Ease of syntax  
+d. Expressiveness with quantifiers and relations  
+
+Answer: d. Expressiveness with quantifiers and relations
+
+--------------------------------------------------
+
+Q18. Which components enable an agent to interact with its environment?  
+a. Program and logic  
+b. Data and cache  
+c. Compiler and debugger  
+d. Sensors and actuators  
+
+Answer: d. Sensors and actuators
+
+--------------------------------------------------
+
+Q19. Why is uncertainty common in AI systems?  
+a. Because rules are hard-coded  
+b. Because sensors and data are often incomplete or noisy  
+c. Because programs are large  
+d. Because data never changes  
+
+Answer: b. Because sensors and data are often incomplete or noisy
+
+--------------------------------------------------
+
+Q20. What helps goal-based agents make better decisions?  
+a. Planning and search mechanisms  
+b. Random actions  
+c. Statistical models only  
+d. Fixed rules  
+
+Answer: a. Planning and search mechanisms
+
+--------------------------------------------------
+
+Q21. Which environment type changes as the agent performs actions?  
+a. Static environment  
+b. Dynamic environment  
+c. Continuous environment  
+d. Episodic environment  
+
+Answer: b. Dynamic environment
+
+--------------------------------------------------
+
+Q22. Which agent type uses explicit goals to guide decision-making?  
+a. Reflex agent  
+b. Utility-based agent  
+c. Goal-based agent  
+d. Learning agent  
+
+Answer: c. Goal-based agent
+
+--------------------------------------------------
+
+Q23. What type of environment does a self-driving car operate in?  
+a. Static and discrete  
+b. Deterministic and static  
+c. Episodic and single  
+d. Dynamic and continuous  
+
+Answer: d. Dynamic and continuous
+
+--------------------------------------------------
+
+Q24. Which term represents the degree of belief about an event?  
+a. Probability  
+b. Determinism  
+c. Truth value  
+d. Fuzziness  
+
+Answer: a. Probability
+
+--------------------------------------------------
+
+Q25. What does P(A ∩ B) denote in probability theory?  
+a. Sum of A and B  
+b. Complement of A  
+c. Difference of A and B  
+d. Joint probability of A and B  
+
+Answer: d. Joint probability of A and B
+
+--------------------------------------------------
+
+Q26. Which property ensures P(A ∪ B) = P(A) + P(B) − P(A ∩ B)?  
+a. Addition Law  
+b. Difference Law  
+c. Complement Law  
+d. Product Law  
+
+Answer: a. Addition Law
+
+--------------------------------------------------
+
+Q27. What is the meaning of P(A|B)?  
+a. Probability of A and B together  
+b. Probability of A only  
+c. Probability of A given that B has occurred  
+d. Probability of B given A  
+
+Answer: c. Probability of A given that B has occurred
+
+--------------------------------------------------
+
+Q28. Which property defines independent events A and B?  
+a. P(A) = P(B)  
+b. P(A ∩ B) = P(A)P(B)  
+c. P(A|B) = 0  
+d. P(A ∩ B) = P(A) + P(B)  
+
+Answer: b. P(A ∩ B) = P(A)P(B)
+
+--------------------------------------------------
+
+Q29. Which rule is used to find P(A|B) when P(B|A) is known?  
+a. Bayes’ Rule  
+b. Chain Rule  
+c. Complement Rule  
+d. Union Rule  
+
+Answer: a. Bayes’ Rule
+
+--------------------------------------------------
+
+Q30. Why is conditional probability useful in AI?  
+a. It ignores dependencies  
+b. It reduces syntax errors  
+c. It removes uncertainty completely  
+d. It updates beliefs based on new evidence  
+
+Answer: d. It updates beliefs based on new evidence
+
+==================================================
+END OF QUESTION PAPER
+==================================================
